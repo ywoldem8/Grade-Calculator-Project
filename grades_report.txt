@@ -1,0 +1,10 @@
+Configuration Loaded Successfully.
+
+CMSC203 Computer Science I 
+Student Name: Alex  Johnson 
+
+Projects (40%): average = 94.50
+Quizzes (30%): average = 81.25
+Exams (30%): average = 88.00Final Numeric Grade: 88.58
+Base Letter Grade: B
+Final Letter Grade: B+
